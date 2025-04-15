@@ -1,0 +1,35 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #f4f4f4;
+  color: #333;
+  margin: 0;
+  padding: 2rem;
+}
+main {
+  max-width: 800px;
+  margin: auto;
+  background: white;
+  padding: 2rem;
+  border-radius: 8px;
+}
+h1 {
+  font-size: 2rem;
+}
+.highlight {
+  color: #0070f3;
+}
+nav a {
+  margin-right: 1rem;
+  color: #0070f3;
+  text-decoration: none;
+}
+nav {
+  margin-top: 1rem;
+  margin-bottom: 2rem;
+}
+section {
+  margin-bottom: 2rem;
+}
+.subtitle {
+  color: #666;
+}
